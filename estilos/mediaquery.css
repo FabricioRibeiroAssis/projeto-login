@@ -42,6 +42,9 @@
         float: right;
         width: 50%;
     }
+    div.campo > input {
+        transform: translateY(-13px);
+    }
     div#formulario > p {
     font-size: 1.2em;
     margin: 20px 0px;
